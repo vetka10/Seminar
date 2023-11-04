@@ -1,2 +1,5 @@
-Привет!
-Привет 2
+int number = -5;
+
+int result = number * number;
+
+Console.WriteLine(result);
